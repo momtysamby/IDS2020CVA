@@ -2,7 +2,7 @@
 
 Ссылка на поэтапное выполнение ПО в рамках енвайромента среды Jupyter Python с частью обучающих и тестовых данных - при работе с входными файлами:
 
-https://github.com/avgorinych/CVA_IDS/blob/master/ml/notebooks/03_ml-prototype/ml-prototype_cva.ipynb
+https://github.com/avgorinych/IDS2020CVA/blob/master/ml/notebooks/03_ml-prototype/ml-prototype_cva.ipynb
 
 Работа в потоковом режиме на данный момент не предусмотрена - будет реализована в дальнейшем!
 
@@ -41,7 +41,7 @@ https://github.com/avgorinych/CVA_IDS/blob/master/ml/notebooks/03_ml-prototype/m
 
 В данный момент тестовый способ проверки - внутри исполняющей системы с испольнением Python кода:
 
-https://github.com/avgorinych/CVA_IDS/blob/master/ml/notebooks/03_ml-prototype/ml-prototype_cva.ipynb
+https://github.com/avgorinych/IDS2020CVA/blob/master/ml/notebooks/03_ml-prototype/ml-prototype_cva.ipynb
 
 Реализация запуска на облаке AWS на этапе разработки!
 
